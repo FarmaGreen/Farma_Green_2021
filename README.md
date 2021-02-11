@@ -1,6 +1,6 @@
 # Farma Green
 ### Tu bienestar a un click 
-
+![WhatsApp Image 2021-01-26 at 3 46 41 PM](https://user-images.githubusercontent.com/78766144/107659040-bd111c80-6c54-11eb-922b-c7dbb10118f4.jpeg)
 ## Objetivo General 
 * Brindar e implementar un servicio para comunicar 
 fácilmente a un centro farmacéutico con el cliente.
